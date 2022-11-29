@@ -23,7 +23,5 @@ public class CalcularEdad {
 
         int edad = (fechaNac - fechaActual) / 10000;
         System.out.println("Tu edad es: " + edad);
-
-
     }
 }
